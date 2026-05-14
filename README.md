@@ -1,4 +1,4 @@
-#Python learining 
+#Python learning 
 This repository contains my Python learning journey.
 #Topics Covered 
   - Basics
