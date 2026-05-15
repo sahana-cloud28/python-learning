@@ -21,3 +21,7 @@ To improve problem-solving skills and build strong python fundamentals.
 #python_loop
 -[problem link]-(https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true)
 -solution-'python_loop_2.py'
+
+#python_arithmetic_operators
+-[Problem link]-(https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
+-solution-'arithmetic_operators.py'
