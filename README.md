@@ -25,3 +25,7 @@ To improve problem-solving skills and build strong python fundamentals.
 #python_arithmetic_operators
 -[Problem link]-(https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
 -solution-'arithmetic_operators.py'
+
+#python_functions
+-[Problem link]-(https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true)
+-solution-'python_functions.py'
