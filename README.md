@@ -29,3 +29,7 @@ To improve problem-solving skills and build strong python fundamentals.
 #python_functions
 -[Problem link]-(https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true)
 -solution-'python_functions.py'
+
+#python_lists
+-[Problem link]-(https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true)
+-solution-'python_lists.py'
