@@ -33,3 +33,7 @@ To improve problem-solving skills and build strong python fundamentals.
 #python_lists
 -[Problem link]-(https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true)
 -solution-'python_lists.py'
+
+#python_lists2
+-[Problem link]-(https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)
+-solution-'python_lists2.py'
