@@ -37,3 +37,7 @@ To improve problem-solving skills and build strong python fundamentals.
 #python_lists2
 -[Problem link]-(https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)
 -solution-'python_lists2.py'
+
+#python_dictionaries
+-the python dictionaries.py contains programs called library book tracker,simple shopping cart program and a simple flight tracker 
+-solution-'python_dictionaries.py'
