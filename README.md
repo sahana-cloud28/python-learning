@@ -41,3 +41,7 @@ To improve problem-solving skills and build strong python fundamentals.
 #python_dictionaries
 -the python dictionaries.py contains programs called library book tracker,simple shopping cart program and a simple flight tracker 
 -solution-'python_dictionaries.py'
+
+#python_tuples
+-[Problem link]-(https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true)
+-solution-'python_tuples.py'
