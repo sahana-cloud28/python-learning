@@ -31,7 +31,7 @@ for num in set(numbers):   # set() removes duplicates
 #hackerrank problem
 if __name__ == '__main__':
     n = int(input("Enter:"))
-    integer_list = map(int, input().split())
+    integer_list =tuple(map(int, input().split()))
     print(hash(integer_list))
 
 
